@@ -1,0 +1,13 @@
+# Ignore artifacts
+venv/
+# The datasets are too large for GitHub. They still exists as URLs in the final project notebook
+Project/data/
+# Ignore my VSCode settings
+.vscode/
+# My notes weren't very good so, out of embarressment...
+DATA301 Notes.docx
+# All lab write-ups have a .pdf counterpart
+Labs/**/*.docx
+# And my lecture's slides were copyrighted
+Slides/
+
